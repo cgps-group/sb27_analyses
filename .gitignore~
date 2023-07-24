@@ -1,0 +1,12 @@
+fasta/qc/
+clustering/Escherichia coli__metadata.csv
+clustering/Escherichia coli__metrics.csv
+clustering/Escherichia coli__mlst.csv
+clustering/Escherichia coli__inctyper.csv
+clustering/e_coli_amrwatch_records.tar.gz
+clustering/Escherichia coli__cgmlst.csv
+clustering/pHierCC/*
+clustering/kmodes/trained_kmodes.pkl
+clustering/kmodes/subset.pkl
+clustering/kmodes/k_tester.py
+clustering/kmodes/
